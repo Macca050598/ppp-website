@@ -9,8 +9,10 @@ const App = () => {
     <>
     <h1>Welcome to puppy potty pal!</h1>
 
-    <div className='pt-[4.75rem] lg:pt-[5.05rem] overflow-hidden'>
-      <Button className="mt-10" href="#"/>
+    <div className="pt-[4.75rem] lg:pt-[5.05rem] overflow-hidden">
+      <Button className="mt-10" href="#login">
+    Something
+      </Button>
     </div>
     <ButtonGradient  />
 
